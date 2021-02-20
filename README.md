@@ -28,8 +28,8 @@ src
 =====
 
 # Platform :
-Deployed with Vercel;
-Created with React Redux ( Hooks );
+1. Deployed with Vercel;
+2. Created with React Redux ( Hooks );
 
 
 by PhatNguyen.
