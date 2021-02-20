@@ -2,6 +2,7 @@
 
 ## Tree:
 
+````script
 src
 |
 |_ Action
@@ -23,10 +24,12 @@ src
            |_ Link
 
 //
+```
+=====
 
-===
-
+# Platform :
 Deployed with Vercel;
 Created with React Redux ( Hooks );
+
 
 by PhatNguyen.
