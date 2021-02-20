@@ -2,7 +2,7 @@
 
 ## Tree:
 
-````script
+```script
 src
 |
 |_ Action
